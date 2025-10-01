@@ -1,2 +1,2 @@
-# backend-POS
+# boilerplate-golang
 
